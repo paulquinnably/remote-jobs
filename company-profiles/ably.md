@@ -28,7 +28,7 @@ The bulk of our engineering team is in Europe so we generally prefer candidates 
 
 ## Company technologies
 
-* We develop our tools using Nodejs, Ruby, Golang, Elixir
+* We develop our tools using Nodejs, Golang, Ruby
 * The open source services we operate include Cassandra, Postgres, Elastic, Influx, Redis, Rabbit
 * We make extensive use of a wide array of AWS services
 * We host our code in Git
